@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tvvo letters from the presbytery of Carrick-Fergus, to the Lord Ards, and his ansvver to the first of them</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06314</idno>
+            <idno type="STC">Wing T3465A</idno>
+            <idno type="STC">ESTC R185824</idno>
+            <idno type="EEBO-CITATION">52529341</idno>
+            <idno type="OCLC">ocm 52529341</idno>
+            <idno type="VID">179171</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06314)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179171)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2779:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tvvo letters from the presbytery of Carrick-Fergus, to the Lord Ards, and his ansvver to the first of them</title>
+                  <author>Mount-Alexander, Hugh Montgomery, Earl of, 1624 or 5-1663.</author>
+                  <author>Church of Ireland. Diocese of Down, Connor, and Dromore.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Ireland :</pubPlace>
+                  <date>1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Letters dated, respectively: At Carrickfergus June 29. 1649; Belfast, June 30: 1649; At Carrickfergus the 20 of July, 1649.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mount-Alexander, Hugh Montgomery, --  Earl of, 1624 or 5-1663.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+               <term>Broadsides --  Ireland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:179171:1" rendition="simple:additions"/>
+            <head>TWO LETTERS FROM THE PRESBYTERY of CARRICK-FERGUS, to the Lord <hi>Ards,</hi> And his anſvver to the firſt of them.</head>
+            <opener>
+               <salute>Right Honourable</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He preſent ſtrange alteration of affaires, moves us to write our minde freely to your Lordſhip: Eſpecially ſince (as it appeares now clearly) you have been the chief author of all theſe preſent calamities. Wee would firſt put your Lordſhip in minde of the hazard you were in before the Covenant was renewed, and how ye complyed with us then for your owne ſafety, with ſolemnity and forwardneſſe ye renewed the Covenant, Ye your ſelfe firſt moved and framed a Declaration in oppoſition to <hi>Malignant</hi> courſes, &amp; all the preſent ene<g ref="char:EOLhyphen"/>mies of the Cauſe of God. In the propoſitions to be offered to the King, you agreed that theſe concerning Religion, ſhould be firſt offerd, and if theſe were not granted, no other ſhould bee preſented: Your Declaration alſo beares very large profeſſion both in generall that ye would do nothing in reference to Religion without our conſent and advice, and that leaſt God ſhould leave you to fall in error, and particularly that ye would acknowledge the Kings Demands, when he ſhould give ſatisfaction in ſecuring Religion before he were admitted to the exerciſe of his Roy<g ref="char:EOLhyphen"/>all Power, you all along ſhew your ſelfe ready to ſubſcibe all orders againſt <hi>Malignants,</hi> and ſo by ample profeſſions, engadg'd us the more deeply to give credite to your Declarations, and truſt your faithfulneſſe: Yet nevertheleſſe your Lordſhip hath had ſecret dealling to bring in <hi>Malignants,</hi> and had correſpondence with them, and all this time hes been dealling ſubtilly in your heart, profeſſing one thing, and intending another; which hes been a moſt notorious deceit to inſnare the people of God, to advance your moſt ſiniſtrous ends, Who could have believed that your Lordſhip would have avowed a Commiſſion from the King, when he yet refuſes as much as his Father to ſecure Religion, but followes wicked counſell, and ſo a<g ref="char:EOLhyphen"/>vowedly to violate that Article of your Declaration; or that ye would owne a wicked aſſociation of <hi>Iriſh Papiſts,</hi> and under color of ſtrengthning, ſhould have betrayed that Garriſon of <hi>Belfaſt.</hi> We muſt be faithfull in warning your Lordſhip, (tho the Lord knowes what heavineſſe it is to us) that the Lord will reward you if ye repent not for ſuch a betraying of the faithfull ſervants of God, who would have plucked out their eyes for you, and the Lord will viſite your familie with ſudden ruine, and irreparable deſolation for that you have been ſo grand an inſtrument to deſtroy the work of God here. We exhort your Lordſhip in the Name of the living God, to whom ye muſt give an account, in haſte to forſake that infa<g ref="char:EOLhyphen"/>mous and ungodly courſe you are in, and adhere to your former profeſſion, otherwayes all the calamities that will enſue, will be laid on your ſcore. The Lord himſelfe and all the faithfull will ſet themſelves againſt you, and we will teſtifie of your unfaithfullneſſe to the world ſo long as the Lord ſhall give us ſtrength, we ſhall yet continue to pray for your Lordſhips converſion, and ſhall expect your anſwer remaining.</p>
+            <closer>
+               <dateline>At Carrickfergus <date>June 29. 1649.</date>
+               </dateline>
+               <signed>Your Lordſhips ſervants in all duty, the Miniſtery of the Presbyterie.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>Reverend Friends,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Cannot but with unexpreſſible grief reſent the bitter expreſſions and ill grounded wrong aſperſions you are pleaſed to caſt upon me in your Letter, as if I had ſecretly brought in Sir <hi>Georg Monroe</hi> his partie into this Countrey, and ſo have been the chief Author of all theſe preſent diſtractions, whereof God the ſearcher of hearts is my witneſſe, I am free (notwithſtanding of the jealouſies raiſed upon ſome expreſſions in that Letter of Sir <hi>George Monroe</hi> to Sir <hi>Robert Stewart</hi> which was intercepted) and that among other many prevalent reaſons and motions (too long heere to expreſſe) inducing at this time to own his Majeſties commiſſion. It was not the betraying, but the ſecur<g ref="char:EOLhyphen"/>ing of theſe Gariſons from Sir <hi>George</hi> his party; which in our diſtracted &amp; diſjoynted condition for want of authority, and by reaſon of the Souldiours affection to their former Officers were likely to be rendered to him. The Lord he knows that the preſervation of the eſtabliſhed Church government your peace, the good and quyet of this poor corner, and the advancement of Religion according to the Covenant, (all which by privat undermyners to your own knowledge were in apparent hazard of ruine) are the chief reaſons which induces me to this courſe of making uſe of that Authority as the only mean to ſecure us, (being ſo united under command from the violence of oppoſers hereunto. I requeſt you therefore, and untill my carriage (after that now I am clothed with Authority,) may witneſſe whether my intentions and reſolutions be not according to my profesſion, you wold be pleaſed to have more charitable thoughts of me and reſt aſſured that I am,</p>
+            <closer>
+               <dateline>Belfaſt, <date>June 30: 1649.</date>
+               </dateline>
+               <signed>Your affectionatly faithfull Friend and Servant, <hi>MONTGOMERY.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>EE receaved yours wherein you with griefe reſent our bitter expreſſions, and ill grounded wrong aſperſions (as much as to call them falſe) which you ſay we caſt upon your Lordſhip. Truely our expreſſions floweth from the bitterneſſe of griefe and ſorrow, and not diſaffe<g ref="char:EOLhyphen"/>ction towards you: You have often known our aboundant affections, and endeavour to ſerve your Lordſhip in our ſtations. Theſe which your Lordſhip cals wrong aſperſions, are the words of truth and ſoberneſſe, intercepted letters from that party, together with Colonell <hi>Conawayes</hi> diſcovery of that which is now clear, with many other circumſtances of your Lordſhips latter carriage, and the e<g ref="char:EOLhyphen"/>exact correſpondance between Colonel <hi>Monrors</hi> motions and yours dos evince the reality of our aſſertions as well as his own letter, which we believe ſpake neither affection nor a conjecture of your Lordſhips deſigne being writen to ſuch a cloſe friend. It is a ſad jeſt to your Lordſhip to tell us that it was the ſecuring of theſe Garriſons from Colonall <hi>George Monroe</hi> that moved you to put on that commiſſion; whereas by the conjunction of your Lordſhips forces and command, hee lyes before this Garriſon to deſtroy it. It were a good proofe of the reality of your purpoſe: If yee ſhould with your whole power urge him to remove, which if yee were cordiall in, were eaſy to do. Neither know wee how to believe that your Lord<g ref="char:EOLhyphen"/>ſhips preſent courſe is intended for the good of Religion and the Covenant, when yee are not only aſſociate with the enemies of both, but your commiſſion, as we are informed, ſubjects you to the immediate commands of the <hi>Marqueſſe</hi> of <hi>Ormond,</hi> whoſe infamous and irreligious peace made with the Rebels, may eaſily tell us what eſtabliſhment to the Covenant, or Presbyteriall government wee may expect from his Orders and Authority, his own printed ſpeach to the Counſell of <hi>Kilkenny,</hi> explaines to us his reall reſolutions concerning Religion, to maintain Chriſtian Religion in the large extent, and not under a ſtrict notion of new invented names, and beſides the King yet refuſing to ſecure Religion, how ſhall you eſtabliſh it, except ye do very far tranſgreſſe the limits of your commiſſion: which we beleeve you deſire no man to think. In a word your Lordſhip hath but reaſſumed the old quarrell which the Engadgers the laſt year, and before them, <hi>James Grahame</hi> and the <hi>Malignants</hi> in <hi>England</hi> were of old purſu<g ref="char:EOLhyphen"/>ing: Neither we are confident; will it proſper better in your hands nor it did in theirs. The Lord in Juſtice hath declared his diſpleaſure againſt that courſe, and will do ſo againſt all them who ſeeks to advance the King againſt Chriſts throne, and even while hee refuſes to give Chriſt his due firſt. We would therefore yet again as lovers of the ſtanding of Chriſts King-dome and of your Lordſhips ſalvation, as the Meſſengers of God beſeech your Lordſhip before you run a furthar hazard of the Lords wrath, to leave off that ungodly courſe, and take better means to effectuate the good of Religion Remember thoſe who honours God he will honour, and theſe who deſpiſe him, ſhall be lightly eſteemed of: Whereas your Lordſhip deſire our charity towards you: Truely as wee have ever teſtified a due reſpectll to your ſelfe and family, wee ſhall yet continue: but you have involved your Lordſhip already ſo far in the guilt of unfaithfulneſſe to the cauſe of God and your own ſubſcriptions, that we cannot but teſtifie againſt the courſe you are in, and denounce judgment upon your perſon, family, and all your party, til the Lord perſwade your heart to returne, which ſhall be our fervent deſire, and ſhall remaine,</p>
+            <closer>
+               <dateline>At Carrickfergus <date>the 2 of July, 1639.</date>
+               </dateline>
+               <signed>Your Lordſhips ſervants in all duetifull obſervance the Miniſters of the Presbyterie.</signed>
+            </closer>
+            <pb facs="tcp:179171:2" rendition="simple:additions"/>
+            <pb facs="tcp:179171:2" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
